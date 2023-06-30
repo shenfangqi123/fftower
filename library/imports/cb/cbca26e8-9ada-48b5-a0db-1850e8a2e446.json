@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WechatIMG893",
+    "texture": "8d577411-886f-4aeb-a91e-645e860b0dcd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      380,
+      369
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      380,
+      369
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
