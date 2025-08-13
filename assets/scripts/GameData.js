@@ -93,11 +93,11 @@ cc.Class({
     },
 
     getRandomCharName: function() {
-        var aphabets =["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
+        var alphabets = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
         var nick = "";
         for(var i=0;i<6;i++) {
-            nick += aphabets[Math.floor(Math.random()*aphabets.length)];
-        } 
+            nick += alphabets[Math.floor(Math.random()*alphabets.length)];
+        }
         return nick;
     },
 
